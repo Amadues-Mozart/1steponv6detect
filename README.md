@@ -1,5 +1,3 @@
-# 6Rover: Utilizing Deep Q-Learning for Seed-Free Internet-Wide IPv6 Scanning Target Generation
-
 ## 1. 模式提取
 ### 方法
 
